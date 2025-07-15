@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<p align="center">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wlgns&color=dark" />
-    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=dev-wlgns&show_icons=true&color=dark" />
-</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-wlgns&&show_icons=true&theme=react&line_height=27"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-wlgns&theme=react&langs_count=3">
+</p>
